@@ -9,7 +9,7 @@ public class Sub {
     }
 
     public void sayBye() {
-        System.out.println("Bye World!");
+        System.out.println(Data.byeMessage());
     }
 
 }

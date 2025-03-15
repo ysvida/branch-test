@@ -6,4 +6,8 @@ public class Data {
         return "Hello World!";
     }
 
+    public static String byeMessage() {
+        return "Bye World!";
+    }
+
 }
