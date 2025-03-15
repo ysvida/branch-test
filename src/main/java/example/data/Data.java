@@ -10,4 +10,8 @@ public class Data {
         return "Bye World!";
     }
 
+    public static String mergeMessage() {
+        return "Merged";
+    }
+
 }
