@@ -8,4 +8,8 @@ public class Sub {
         System.out.println(Data.helloMessage());
     }
 
+    public void sayBye() {
+        System.out.println("Bye World!");
+    }
+
 }
