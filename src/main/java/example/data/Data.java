@@ -14,4 +14,8 @@ public class Data {
         return "Merged";
     }
 
+    public static String rebaseMessage() {
+        return "Rebased";
+    }
+
 }

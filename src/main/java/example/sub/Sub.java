@@ -18,7 +18,7 @@ public class Sub {
     }
 
     public void sayRebase() {
-        System.out.println("Rebased");
+        System.out.println(Data.rebaseMessage());
     }
 
 }
