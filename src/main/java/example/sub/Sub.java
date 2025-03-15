@@ -18,7 +18,6 @@ public class Sub {
     }
 
     public void sayRebase() {
-        // merged from rebase2
         System.out.println(Data.rebaseMessage());
     }
 
