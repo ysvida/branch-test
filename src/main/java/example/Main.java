@@ -8,6 +8,7 @@ public class Main {
         Sub sub = new Sub();
         sub.sayHello();
         sub.sayBye();
+        sub.sayMerge();
     }
 
 }
