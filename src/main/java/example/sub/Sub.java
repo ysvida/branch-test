@@ -18,7 +18,8 @@ public class Sub {
     }
 
     public void sayRebase() {
-        System.out.println("Rebased");
+        // merged from rebase2
+        System.out.println(Data.rebaseMessage());
     }
 
 }
