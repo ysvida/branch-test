@@ -9,6 +9,7 @@ public class Main {
         sub.sayHello();
         sub.sayBye();
         sub.sayMerge();
+        sub.sayRebase();
     }
 
 }
