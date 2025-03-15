@@ -12,4 +12,8 @@ public class Sub {
         System.out.println(Data.byeMessage());
     }
 
+    public void sayMerge() {
+        System.out.println("Merged");
+    }
+
 }
