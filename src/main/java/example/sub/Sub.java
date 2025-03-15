@@ -13,6 +13,7 @@ public class Sub {
     }
 
     public void sayMerge() {
+        // merged
         System.out.println(Data.mergeMessage());
     }
 
